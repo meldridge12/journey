@@ -2,7 +2,7 @@
 	color-scheme: only dark;
 }
 nav {
-	background-color: hsl(20, 50%, 50%);
+	background-color: hsl(20, 100%, 39%);
 	position: fixed;
 	left: 0;
 	top: 0;
@@ -20,7 +20,7 @@ nav > a {
 }
 
 nav div {
-	background-color: hsl(20, 50%, 25%);
+	background-color: hsl(20, 100%, 39%);
 	width: fit-content;
 	height: fit-content;
 	padding: 10px;
